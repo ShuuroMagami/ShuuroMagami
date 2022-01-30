@@ -1,3 +1,3 @@
 Now constructing my new profile...
 
-I study Python now. And also git and github. :-)
+I study Python now. And also Git and GitHub. :-)
